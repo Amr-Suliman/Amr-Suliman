@@ -25,19 +25,19 @@
 
 I'm a Computer Science student focused on building **real-world front-end applications** — where performance meets pixel-perfect design. I don't just build interfaces; I build scalable products.
 
-* ✨ **Clean Architecture:** Prioritizing maintainable and reusable component systems.
-* ⚡ **Performance-First:** Obsessed with Core Web Vitals and seamless user flows.
-* 🎨 **UX Driven:** Bridging the gap between complex logic and intuitive design.
+*  **Clean Architecture:** Prioritizing maintainable and reusable component systems.
+*  **Performance-First:** Obsessed with Core Web Vitals and seamless user flows.
+*  **UX Driven:** Bridging the gap between complex logic and intuitive design.
 
 > *"Good UI is invisible. Great code makes it stay that way."*
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
-### 🎨 Front-End
+### Front-End
 <table>
 <tr>
 <td align="center" width="96">
