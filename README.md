@@ -116,9 +116,9 @@ I'm a Computer Science student focused on building **real-world front-end applic
 I treat every project as a chance to get better. Whether it's refining component structure, improving performance, or exploring new libraries — I'm always iterating.
 
 **Currently exploring:**
-- 🔹 Advanced Next.js patterns & server components
-- 🔹 Clean architecture in front-end projects
-- 🔹 Performance optimization & Core Web Vitals
+- Advanced Next.js patterns & server components
+- Clean architecture in front-end projects
+- Performance optimization & Core Web Vitals
 
 ---
 
