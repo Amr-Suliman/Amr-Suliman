@@ -4,7 +4,7 @@
 
 <br/>
 
-## 🚀 Crafting High-Performance Web Experiences
+## Crafting High-Performance Web Experiences
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Next.js+%2B+TypeScript+Specialist;Building+Scalable+Architectures;UI%2FUX+%26+Performance+Driven;Clean+Code+Enthusiast" alt="Typing SVG" />
 
@@ -21,7 +21,7 @@
 
 ---
 
-### 🧠 Beyond the Code
+### Beyond the Code
 
 I'm a Computer Science student focused on building **real-world front-end applications** — where performance meets pixel-perfect design. I don't just build interfaces; I build scalable products.
 
@@ -66,7 +66,7 @@ I'm a Computer Science student focused on building **real-world front-end applic
 
 ---
 
-### ⚙️ Tools & Workflow
+### Tools & Workflow
 <table>
 <tr>
 <td align="center" width="96">
@@ -83,7 +83,7 @@ I'm a Computer Science student focused on building **real-world front-end applic
 
 ---
 
-### 🎯 Design & Productivity
+### Design & Productivity
 <table>
 <tr>
 <td align="center" width="96">
@@ -99,7 +99,7 @@ I'm a Computer Science student focused on building **real-world front-end applic
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -111,7 +111,7 @@ I'm a Computer Science student focused on building **real-world front-end applic
 
 ---
 
-## 📈 Always Learning
+## Always Learning
 
 I treat every project as a chance to get better. Whether it's refining component structure, improving performance, or exploring new libraries — I'm always iterating.
 
@@ -122,7 +122,7 @@ I treat every project as a chance to get better. Whether it's refining component
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -138,7 +138,7 @@ I treat every project as a chance to get better. Whether it's refining component
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 <div align="center">
 
