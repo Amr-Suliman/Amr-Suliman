@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Premium Dev Animation Header -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zic3Bnd3VwYTMwN3M0Y3Y0Y3VvZXA0Znd5bXN0bW9uam9idm01MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3R9Zw.L1R1tvI9svkRPdVvVP/giphy.gif" width="100%" alt="Dev Animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20&height=250&section=header&text=Amr%20Suleiman&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Engineer%20%7C%20Creative%20Developer&descAlignY=55&descAlign=50&reversal=true" width="100%"/>
 
 <br/>
 
@@ -13,9 +12,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-suleiman)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vendora-store.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrelgohary573@gmail.com)
+<a href="mailto:amrelgohary573@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28"/>
+</a>
 
 </div>
+
 
 ---
 
@@ -27,17 +29,71 @@ I'm a Computer Science student focused on building **real-world front-end applic
 *  **Performance-First:** Obsessed with Core Web Vitals and seamless user flows.
 *  **UX Driven:** Bridging the gap between complex logic and intuitive design.
 
-> "Good UI is invisible. Great code makes it stay that way."
+> *"Good UI is invisible. Great code makes it stay that way."*
 
 ---
 
-## Tech Stack & Tools
+##  Tech Stack
 
 <div align="center">
 
-| Core Technologies | Ecosystem & Workflow | Design & Productivity |
-| :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Front-End Stack" /> | <img src="https://skillicons.dev/icons?i=git,github,vercel" alt="Workflow Tools" /> | <img src="https://skillicons.dev/icons?i=vscode,figma" alt="Design Tools" /> |
+### Front-End
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" /><br><sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" /><br><sub><b>CSS3</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" /><br><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="48" /><br><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" /><br><sub><b>React</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="48" /><br><sub><b>Next.js</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" /><br><sub><b>Tailwind</b></sub>
+</td>
+</tr>
+</table>
+
+---
+
+### Tools & Workflow
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" /><br><sub><b>Git</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github&theme=light" width="48" /><br><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vercel&theme=light" width="48" /><br><sub><b>Vercel</b></sub>
+</td>
+</tr>
+</table>
+
+---
+
+### Design & Productivity
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" /><br><sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="48" /><br><sub><b>Figma</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -47,30 +103,31 @@ I'm a Computer Science student focused on building **real-world front-end applic
 
 <div align="center">
 
-| Project | Description | Stack | Live Architecture |
-| :--- | :--- | :--- | :--- |
-| **Vendora** | Full e-commerce platform featuring dynamic product browsing, advanced category/style filters, and fully responsive layouts. | Next.js · TypeScript · Tailwind | [Live Demo](https://vendora-store.vercel.app) |
+| Project | Description | Stack | Live |
+|--------|-------------|-------|------|
+| **Vendora 🛍️** | Full e-commerce platform — product browsing, category & style filters, responsive layout, newsletter system | Next.js · TypeScript · Tailwind | [vendora-store.vercel.app](https://vendora-store.vercel.app) |
 
 </div>
 
 ---
 
-## Core Focus & Learning
+## Always Learning
 
 I treat every project as a chance to get better. Whether it's refining component structure, improving performance, or exploring new libraries — I'm always iterating.
 
 **Currently exploring:**
-* Advanced Next.js patterns & server components
-* Clean architecture in front-end projects
-* Performance optimization & Core Web Vitals
+- Advanced Next.js patterns & server components
+- Clean architecture in front-end projects
+- Performance optimization & Core Web Vitals
 
 ---
 
-## GitHub Performance Matrix
+##  GitHub Stats
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amr-Suliman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7F77DD&icon_color=7F77DD&text_color=ffffff"/>
+
 <img height="180em" src="https://streak-stats.demolab.com?user=Amr-Suliman&theme=tokyonight&hide_border=true&background=0D1117&ring=7F77DD&fire=7F77DD&currStreakLabel=7F77DD&sideLabels=ffffff&dates=ffffff"/>
 
 <br/><br/>
@@ -85,14 +142,14 @@ I treat every project as a chance to get better. Whether it's refining component
 
 <div align="center">
 
-Got a project, an idea, or just want to talk code? Feel free to reach out.
+Got a project, an idea, or just want to talk code? I'm always open.
 
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrelgohary573@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-suleiman)
 
-<br/><br/>
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Amr-Suliman&color=7F77DD&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -101,5 +158,7 @@ Got a project, an idea, or just want to talk code? Feel free to reach out.
 ---
 
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=120&section=footer" width="100%"/>
+
 </div>
