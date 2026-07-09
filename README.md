@@ -1,20 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=250&section=header&text=Amr%20Suleiman&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Engineer%20%7C%20Creative%20Developer&descAlignY=55&descAlign=50&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=160&section=header&text=Amr%20Suleiman&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Engineer%20%7C%20Creative%20Developer&descAlignY=62&descAlign=50&reversal=true" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=e84855&center=true&vCenter=true&width=500&lines=Front-End+Developer;Building+with+React+%26+Next.js;Clean+Code%2C+Thoughtful+Design" alt="Typing SVG" />
 
 <br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=e84855&center=true&vCenter=true&width=500&lines=Next.js+%2B+TypeScript+Specialist;Building+Scalable+Architectures;UI%2FUX+%26+Performance+Driven;Clean+Code+Enthusiast" alt="Typing SVG" />
-
-<br/><br/>
 
 <a href="https://www.linkedin.com/in/amr-suleiman"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=e84855" /></a>
 <a href="https://amr-suleiman-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=e84855" /></a>
 <a href="mailto:amrelgohary573@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=e84855" /></a>
 
 </div>
-
-<br/>
 
 ## About Me
 
