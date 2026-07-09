@@ -93,7 +93,7 @@ Rebuilding my personal portfolio from scratch — custom Framer Motion spring an
 <a href="mailto:amrelgohary573@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=e84855" /></a>
 <a href="https://www.linkedin.com/in/amr-suleiman"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=e84855" /></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=100&section=footer" width="100%"/>
 
