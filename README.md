@@ -1,4 +1,3 @@
-<img width="800" height="600" alt="104816402-097a5f80-5843-11eb-9d83-deadb3bb212c" src="https://github.com/user-attachments/assets/8297d7d7-1421-4b04-b66b-01008d1539e5" />
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=250&section=header&text=Amr%20Suleiman&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Engineer%20%7C%20Creative%20Developer&descAlignY=55&descAlign=50&reversal=true" width="100%"/>
@@ -36,8 +35,7 @@ Alongside development, I design in Figma and mentor students at **IEEE Obour Stu
 </td>
 <td width="40%" align="center">
 
-<!-- PASTE GITHUB IMAGE LINK HERE (drag & drop the gif into the GitHub editor, then paste the generated link below) -->
-<img src="./assets/dev-workspace.gif" width="100%"/>
+<img src="https://github.com/user-attachments/assets/8297d7d7-1421-4b04-b66b-01008d1539e5" width="100%"/>
 
 </td>
 </tr>
