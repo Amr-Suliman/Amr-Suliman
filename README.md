@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0202,100:1a0505&height=180&section=header&text=Amr%20Suleiman&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Front-End%20Engineer&descAlignY=68&descSize=22&descColor=e84855" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=250&section=header&text=Amr%20Suleiman&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Engineer%20%7C%20Creative%20Developer&descAlignY=55&descAlign=50&reversal=true" width="100%"/>
 
-<sub><i>Turning designs into fast, scalable, production-ready interfaces</i></sub>
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=e84855&center=true&vCenter=true&width=500&lines=Next.js+%2B+TypeScript+Specialist;Building+Scalable+Architectures;UI%2FUX+%26+Performance+Driven;Clean+Code+Enthusiast" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -33,6 +35,7 @@ Alongside development, I design in Figma and mentor students at **IEEE Obour Stu
 </td>
 <td width="40%" align="center">
 
+<!-- PASTE GITHUB IMAGE LINK HERE (drag & drop the gif into the GitHub editor, then paste the generated link below) -->
 <img src="./assets/dev-workspace.gif" width="100%"/>
 
 </td>
@@ -108,6 +111,6 @@ Advanced Next.js patterns & server components · clean front-end architecture ·
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0505,100:0d0202&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=100&section=footer" width="100%"/>
 
 </div>
