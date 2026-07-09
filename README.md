@@ -1,164 +1,113 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20&height=250&section=header&text=Amr%20Suleiman&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Engineer%20%7C%20Creative%20Developer&descAlignY=55&descAlign=50&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0202,100:1a0505&height=180&section=header&text=Amr%20Suleiman&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Front-End%20Engineer&descAlignY=68&descSize=22&descColor=e84855" width="100%"/>
 
-<br/>
+<sub><i>Turning designs into fast, scalable, production-ready interfaces</i></sub>
 
-## Crafting High-Performance Web Experiences
+<br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Next.js+%2B+TypeScript+Specialist;Building+Scalable+Architectures;UI%2FUX+%26+Performance+Driven;Clean+Code+Enthusiast" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-suleiman)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vendora-store.vercel.app)
-<a href="mailto:amrelgohary573@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28"/>
-</a>
+<a href="https://www.linkedin.com/in/amr-suleiman"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=e84855" /></a>
+<a href="https://amr-suleiman-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=e84855" /></a>
+<a href="mailto:amrelgohary573@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=e84855" /></a>
 
 </div>
 
+<br/>
 
----
+## About Me
 
-### Beyond the Code
+<table>
+<tr>
+<td width="60%" valign="top">
 
-I'm a Computer Science student focused on building **real-world front-end applications** — where performance meets pixel-perfect design. I don't just build interfaces; I build scalable products.
+I'm a Computer Science student (graduating 2027) and Front-End Developer who builds **real, deployed products** — not just UI mockups. My focus is React.js and Next.js applications that are clean under the hood and polished on the surface.
 
-*  **Clean Architecture:** Prioritizing maintainable and reusable component systems.
-*  **Performance-First:** Obsessed with Core Web Vitals and seamless user flows.
-*  **UX Driven:** Bridging the gap between complex logic and intuitive design.
+Alongside development, I design in Figma and mentor students at **IEEE Obour Student Branch** and **ICPC Obour Community**, where I teach programming fundamentals.
+
+- **Component-driven** — reusable, typed, maintainable architecture
+- **Motion-aware** — Framer Motion, Three.js, and interactive detail work
+- **Design-literate** — I move between Figma and code fluently
 
 > *"Good UI is invisible. Great code makes it stay that way."*
 
----
+</td>
+<td width="40%" align="center">
 
-##  Tech Stack
+<img src="./assets/dev-workspace.gif" width="100%"/>
 
-<div align="center">
-
-### Front-End
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" /><br><sub><b>HTML5</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" /><br><sub><b>CSS3</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" /><br><sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ts" width="48" /><br><sub><b>TypeScript</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" /><br><sub><b>React</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="48" /><br><sub><b>Next.js</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" /><br><sub><b>Tailwind</b></sub>
 </td>
 </tr>
 </table>
 
 ---
 
-### Tools & Workflow
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" /><br><sub><b>Git</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github&theme=light" width="48" /><br><sub><b>GitHub</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vercel&theme=light" width="48" /><br><sub><b>Vercel</b></sub>
-</td>
-</tr>
-</table>
+## Tech Stack
 
----
+**Languages & Core**
 
-### Design & Productivity
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" /><br><sub><b>VS Code</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma" width="48" /><br><sub><b>Figma</b></sub>
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=E44D26"/> <img src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=2965F1"/> <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
 
-</div>
+**Frameworks & Libraries**
+
+<img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=nextdotjs&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Framer_Motion-0A0A0A?style=for-the-badge&logo=framer&logoColor=e84855"/>
+
+**Tools & Design**
+
+<img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Vercel-0A0A0A?style=for-the-badge&logo=vercel&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma&logoColor=F24E1E"/> <img src="https://img.shields.io/badge/VS_Code-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
 
 ---
 
 ## Featured Projects
 
+<table>
+<tr>
+<th align="left">Project</th>
+<th align="left">Description</th>
+<th align="left">Stack</th>
+<th align="left">Link</th>
+</tr>
+<tr>
+<td><b>Vendora 🛍️</b></td>
+<td>Full e-commerce platform — product browsing, category & style filters, responsive layout, newsletter system</td>
+<td>Next.js · TypeScript · Tailwind</td>
+<td><a href="https://vendora-store.vercel.app">Live ↗</a></td>
+</tr>
+<tr>
+<td><b>LinkedPost 🔗</b></td>
+<td>Social media web app — post creation, real-time UI updates, image uploads via FormData</td>
+<td>React · Vite · HeroUI · Axios</td>
+<td><a href="https://github.com/Amr-Suliman">Repo ↗</a></td>
+</tr>
+</table>
+
+---
+
+## Currently Learning
+
+Advanced Next.js patterns & server components · clean front-end architecture · performance optimization & Core Web Vitals
+
+---
+
+## GitHub Stats
+
 <div align="center">
 
-| Project | Description | Stack | Live |
-|--------|-------------|-------|------|
-| **Vendora 🛍️** | Full e-commerce platform — product browsing, category & style filters, responsive layout, newsletter system | Next.js · TypeScript · Tailwind | [vendora-store.vercel.app](https://vendora-store.vercel.app) |
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Amr-Suliman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=e84855&icon_color=e84855&text_color=ffffff"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Suliman&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=e84855&text_color=ffffff"/>
 
 </div>
 
 ---
 
-## Always Learning
-
-I treat every project as a chance to get better. Whether it's refining component structure, improving performance, or exploring new libraries — I'm always iterating.
-
-**Currently exploring:**
-- Advanced Next.js patterns & server components
-- Clean architecture in front-end projects
-- Performance optimization & Core Web Vitals
-
----
-
-##  GitHub Stats
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amr-Suliman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7F77DD&icon_color=7F77DD&text_color=ffffff"/>
+**Got a project, an idea, or just want to talk code? I'm always open.**
 
-<img height="180em" src="https://streak-stats.demolab.com?user=Amr-Suliman&theme=tokyonight&hide_border=true&background=0D1117&ring=7F77DD&fire=7F77DD&currStreakLabel=7F77DD&sideLabels=ffffff&dates=ffffff"/>
+<a href="mailto:amrelgohary573@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=e84855" /></a>
+<a href="https://www.linkedin.com/in/amr-suleiman"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=e84855" /></a>
 
 <br/><br/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Suliman&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&text_color=ffffff"/>
-
-</div>
-
----
-
-## Let's Connect
-
-<div align="center">
-
-Got a project, an idea, or just want to talk code? I'm always open.
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrelgohary573@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-suleiman)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Amr-Suliman&color=7F77DD&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0505,100:0d0202&height=80&section=footer" width="100%"/>
 
 </div>
