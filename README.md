@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Front-End+Developer;Building+with+React+%26+Next.js;Clean+Code%2C+Thoughtful+Design" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/amr-suleiman"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=e84855" /></a>
 <a href="https://amr-suleiman-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=e84855" /></a>
