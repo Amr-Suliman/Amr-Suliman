@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=220&section=header&text=Amr%20Suleiman&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Engineer%20%7C%20Creative%20Developer&descAlignY=62&descAlign=50&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=160&section=header&text=Amr%20Suleiman&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Engineer%20%7C%20Creative%20Developer&descAlignY=62&descAlign=50&reversal=true" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Front-End+Developer;Building+with+React+%26+Next.js;Clean+Code%2C+Thoughtful+Design" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/amr-suleiman"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=e84855" /></a>
 <a href="https://amr-suleiman-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=e84855" /></a>
@@ -22,11 +22,9 @@ I'm a Computer Science student (graduating 2027) and Front-End Developer who bui
 
 Alongside development, I design in Figma and mentor students at **IEEE Obour Student Branch** and **ICPC Obour Community**, where I teach programming fundamentals.
 
-- **Component-driven** — reusable, typed, maintainable architecture
-- **Motion-aware** — Framer Motion, Three.js, and interactive detail work
-- **Design-literate** — I move between Figma and code fluently
-
-> *"Good UI is invisible. Great code makes it stay that way."*
+- Built **Vendora**, a full Next.js e-commerce store, and **LinkedPost**, a React social app with real-time UI updates
+- Currently rebuilding my portfolio with **Framer Motion spring physics** and a custom **Three.js/React Three Fiber** background scene
+- Mentor students in programming at **IEEE Obour Student Branch** and **ICPC Obour Community**
 
 </td>
 <td width="40%" align="center">
@@ -80,9 +78,9 @@ Alongside development, I design in Figma and mentor students at **IEEE Obour Stu
 
 ---
 
-## Currently Learning
+## Currently Working On
 
-Advanced Next.js patterns & server components · clean front-end architecture · performance optimization & Core Web Vitals
+Rebuilding my personal portfolio from scratch — custom Framer Motion spring animations, an orbiting tech-icon system built with SVG masking, and a Three.js background scene, all in Next.js + TypeScript + Tailwind v4.
 
 ---
 
