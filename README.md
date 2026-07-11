@@ -69,7 +69,7 @@ Alongside development, I design in Figma and mentor students at **IEEE Obour Stu
 <td><a href="https://vendora-store.vercel.app">Live ↗</a></td>
 </tr>
 <tr>
-<td><b>LinkedPost 🔗</b></td>
+<td><b>LinkedPost</b></td>
 <td>Social media web app — post creation, real-time UI updates, image uploads via FormData</td>
 <td>React · Vite · HeroUI · Axios</td>
 <td><a href="https://github.com/Amr-Suliman">Repo ↗</a></td>
