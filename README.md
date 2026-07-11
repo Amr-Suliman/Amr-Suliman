@@ -10,7 +10,7 @@
 
 </div>
 
-## About Mee
+## About Me
 
 <table>
 <tr>
