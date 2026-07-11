@@ -63,7 +63,7 @@ Alongside development, I design in Figma and mentor students at **IEEE Obour Stu
 <th align="left">Link</th>
 </tr>
 <tr>
-<td><b>Vendora 🛍️</b></td>
+<td><b>Vendora</b></td>
 <td>Full e-commerce platform — product browsing, category & style filters, responsive layout, newsletter system</td>
 <td>Next.js · TypeScript · Tailwind</td>
 <td><a href="https://vendora-store.vercel.app">Live ↗</a></td>
