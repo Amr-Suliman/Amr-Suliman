@@ -81,7 +81,9 @@ Alongside development, I design in Figma and mentor students at **IEEE Obour Stu
 
 ## Currently Working On
 
-Rebuilding my personal portfolio from scratch — custom Framer Motion spring animations, an orbiting tech-icon system built with SVG masking, and a Three.js background scene, all in Next.js + TypeScript + Tailwind v4. Also leveling up my back-end skills with C# and ASP.NET to start shipping full-stack projects.
+- **Full-Stack .NET** — completing my transition into full-stack development, going deeper into C#/ASP.NET after the fundamentals track
+- **Dashboard** — building a new dashboard project
+- **LinkedPost** — continuing to develop and improve the social media app
 
 ---
 
